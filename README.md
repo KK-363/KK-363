@@ -1,4 +1,4 @@
-I recently, in December 2022, completed Nucamp's Complete Software Engineering Bootcamp to update my coding skills after taking about 10 years off to homeschool my daughter.  Coding is something I really enjoy, with my main interest on the front end and design side of website development, which is mostly what I did before taking a break.  
+I recently, in December 2022, completed Nucamp's Complete Software Engineering Bootcamp to update my coding skill.  Coding is something I really enjoy, with my main interest on the front end and design side of website development.  
 
 I discovered a love of debugging while updating my coding skills, which I find very engergizing and satisfying. (Not always in the moment, but when I figure out what went wrong definitely! 😄) It is a puzzle I need to sovle once I get started.
 
